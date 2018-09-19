@@ -1,0 +1,23 @@
+{
+  "name": "@mjstahl/bond",
+  "version": "0.1.0",
+  "description": "Design by contract with modern ES",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard --fix && ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjstahl/bond.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mjstahl/bond/issues"
+  },
+  "homepage": "https://github.com/mjstahl/bond#readme",
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "standard": "^12.0.1"
+  }
+}

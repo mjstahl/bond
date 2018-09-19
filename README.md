@@ -1,2 +1,2 @@
 # bond
-Design by contract in modern ES
+Design by contract with modern ES
