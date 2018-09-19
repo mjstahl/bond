@@ -1,2 +1,2 @@
 # bond
-Design By Contract in modern JS
+Design by contract in modern ES
